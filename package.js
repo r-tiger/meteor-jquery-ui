@@ -1,6 +1,6 @@
 Package.describe({
     name: 'ruslan:jquery-ui',
-    version: '0.0.2',
+    version: '1.11.4_1',
     summary: 'jquery-ui 1.11.4 without tooltip for use Bootstrap Tooltip',
     git: 'https://github.com/r-tiger/meteor-jquery-ui',
     documentation: 'README.md'
